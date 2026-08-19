@@ -1,0 +1,24 @@
+{
+  "news": [
+    {
+      "tag": "Nouveau",
+      "tone": "accent",
+      "title": "Bienvenue sur le nouveau launcher",
+      "body": "Nouveau design, mises à jour automatiques du modpack et lancement en un clic.",
+      "image": "https://raw.githubusercontent.com/MichMapServ/mxmc-modpack/main/media/news-1.png"
+    },
+    {
+      "tag": "Saison 3",
+      "tone": "info",
+      "title": "La saison 3 est arrivée",
+      "body": "Nouveaux mods, nouvelles régions et événements communautaires chaque semaine.",
+      "image": "https://raw.githubusercontent.com/MichMapServ/mxmc-modpack/main/media/news-2.png"
+    },
+    {
+      "tag": "Maintenance",
+      "tone": "violet",
+      "title": "Serveur optimisé",
+      "body": "Performances améliorées et corrections de bugs sur le modpack."
+    }
+  ]
+}
