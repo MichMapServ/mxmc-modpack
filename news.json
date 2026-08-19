@@ -12,13 +12,14 @@
       "tone": "info",
       "title": "La saison 3 est arrivée",
       "body": "Nouveaux mods, nouvelles régions et événements communautaires chaque semaine.",
-      "image": "https://raw.githubusercontent.com/MichMapServ/mxmc-modpack/main/media/news-2.png"
+      "image": "https://raw.githubusercontent.com/MichMapServ/mxmc-modpack/main/media/news-3.jpg"
     },
     {
       "tag": "Maintenance",
       "tone": "violet",
       "title": "Serveur optimisé",
       "body": "Performances améliorées et corrections de bugs sur le modpack."
+      "image": "https://raw.githubusercontent.com/MichMapServ/mxmc-modpack/main/media/news-2.jpg"
     }
   ]
 }
