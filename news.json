@@ -1,10 +1,10 @@
 {
   "news": [
     {
-      "tag": "Le commencement",
+      "tag": "22/08",
       "tone": "accent",
-      "title": "Wesh",
-      "body": "Qu'est ce que tu fait, rejoins !!",
+      "title": "Un launcher ??",
+      "body": "Pour faciliter l’accès au serveur, un launcher a été développé. Il suffit de l’installer, de le lancer, puis d’appuyer sur « Jouer ». Le launcher s’occupe du reste et vous connecte directement au serveur.",
       "image": "https://raw.githubusercontent.com/MichMapServ/mxmc-modpack/main/media/news-1.jpg"
     },
     {
@@ -12,13 +12,13 @@
       "tone": "info",
       "title": "La saison 3 est arrivée",
       "body": "Nouveaux mods, nouvelles régions et événements communautaires chaque semaine.",
-      "image": "https://raw.githubusercontent.com/MichMapServ/mxmc-modpack/main/media/news-3.jpg"
+      "image": "https://raw.githubusercontent.com/MichMapServ/mxmc-modpack/main/media/news-2.jpg"
     },
     {
       "tag": "Maintenance",
       "tone": "violet",
       "title": "Serveur optimisé",
-      "body": "Performances améliorées et corrections de bugs sur le modpack."
+      "image": "https://raw.githubusercontent.com/MichMapServ/mxmc-modpack/main/media/news-3.jpg"
     }
   ]
 }
